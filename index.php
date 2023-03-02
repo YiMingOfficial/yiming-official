@@ -2,9 +2,8 @@
 <html>
 <body>
 
-<?php
-	echo "My first PHP script!";
-?>
-
-</html>
+	<?php
+		echo "My first PHP script!";
+	?>
 </body>
+</html>
